@@ -1,4 +1,4 @@
-# Sovereign Landing Zone (SLZ) - Sovereign Policy Baseline
+# Sovereign Landing Zone (SLZ) - Sovereignty Policy Baseline
 
 Policies from the [Sovereignty Policy Baseline](https://github.com/Azure/sovereign-landing-zone/blob/main/docs/scenarios/Sovereignty-Policy-Baseline.md) project extracted for use in [EPAC](https://aka.ms/epac).
 
