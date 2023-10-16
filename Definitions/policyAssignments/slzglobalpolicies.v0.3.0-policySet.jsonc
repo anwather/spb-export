@@ -1,0 +1,61 @@
+{
+  "nodeName": "/root",
+  "definitionEntry": {
+    "policySetName": "SlzGlobalPolicies.v0.3.0",
+    "displayName": "SLZ Global Policies v0.3.0"
+  },
+  "assignment": {
+    "name": "Deploy-SLZ-Rootv030",
+    "displayName": "SLZ Global Policies v030",
+    "description": "SLZ Global Policies v030"
+  },
+  "parameters": {
+    "listOfAllowedLocations": [
+      "australiacentral",
+      "australiacentral2",
+      "australiaeast",
+      "australiasoutheast",
+      "brazilsouth",
+      "canadacentral",
+      "canadaeast",
+      "centralindia",
+      "centralus",
+      "eastasia",
+      "eastus",
+      "eastus2",
+      "francecentral",
+      "germanywestcentral",
+      "japaneast",
+      "japanwest",
+      "jioindiawest",
+      "koreacentral",
+      "koreasouth",
+      "northcentralus",
+      "northeurope",
+      "norwayeast",
+      "qatarcentral",
+      "southafricanorth",
+      "southcentralus",
+      "southeastasia",
+      "southindia",
+      "swedencentral",
+      "switzerlandnorth",
+      "uaenorth",
+      "uksouth",
+      "ukwest",
+      "westcentralus",
+      "westeurope",
+      "westindia",
+      "westus",
+      "westus2",
+      "westus3"
+    ]
+  },
+  "overrides": [],
+  "resourceSelectors": [],
+  "scope": {
+    "slz": [
+      "/providers/Microsoft.Management/managementGroups/slz"
+    ]
+  }
+}
