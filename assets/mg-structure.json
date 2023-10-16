@@ -1,0 +1,67 @@
+{
+    "bdb8ea1c-17da-4181-8895-6b79af002b4e": [
+        {
+            "id": "slz",
+            "displayName": "Sovereign Landing Zone Extraction",
+            "children": [
+                {
+                    "id": "slz-platform",
+                    "displayName": "Platform",
+                    "children": [
+                        {
+                            "id": "slz-management",
+                            "displayName": "Management",
+                            "subscriptions": []
+                        },
+                        {
+                            "id": "slz-connectivity",
+                            "displayName": "Connectivity",
+                            "subscriptions": []
+                        },
+                        {
+                            "id": "slz-identity",
+                            "displayName": "Identity",
+                            "subscriptions": []
+                        }
+                    ]
+                },
+                {
+                    "id": "slz-landingzones",
+                    "displayName": "SLZ Landing Zones",
+                    "children": [
+                        {
+                            "id": "slz-corp",
+                            "displayName": "Corp",
+                            "subscriptions": []
+                        },
+                        {
+                            "id": "slz-online",
+                            "displayName": "Online",
+                            "subscriptions": []
+                        },
+                        {
+                            "id": "slz-landingzones-confidential-corp",
+                            "displayName": "Confidentital Corp",
+                            "subscriptions": []
+                        },
+                        {
+                            "id": "slz-landingzones-confidential-online",
+                            "displayName": "Confidential Online",
+                            "subscriptions": []
+                        }
+                    ]
+                },
+                {
+                    "id": "slz-sandbox",
+                    "displayName": "Sandbox",
+                    "subscriptions": []
+                },
+                {
+                    "id": "slz-decommissioned",
+                    "displayName": "Decommissioned",
+                    "subscriptions": []
+                }
+            ]
+        }
+    ]
+}
