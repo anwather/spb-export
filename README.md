@@ -12,6 +12,7 @@ Policies from the [Sovereignty Policy Baseline](https://github.com/Azure/soverei
 
 ## Caveats
 
+- The Sovereign Landing Zone is currently in preview.
 - Policies are tested by the owners of the Sovereign Landing Zone repositories - for issues with the policies or assignments please refer to the original [project](https://github.com/Azure/sovereign-landing-zone/tree/main).
 - Deploying the SLZ also includes the ALZ policies - you can synchronise these using EPAC - ```Sync-ALZPolicies```. The policies extracted here **do not** include the ALZ deployed policies. 
 - The assignment files assumes an SLZ recommended management group structure - as described in [this link](https://github.com/Azure/sovereign-landing-zone/blob/main/docs/02-Architecture.md).
